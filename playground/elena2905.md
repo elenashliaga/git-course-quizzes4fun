@@ -8,3 +8,5 @@
 5. git add .
 6. git commit -m "мой первый коммит"
 7.  git push - -set-upstream origin test-branch
+
+Готово.
