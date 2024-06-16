@@ -7,3 +7,5 @@
 - `git add --all`
 - `git commit -m "<my_commit_message>"`
 - `git push origin <my_branch_name>`
+
+Добавила какие-то изменения.
